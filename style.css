@@ -111,3 +111,18 @@ ul:hover img {
     background-color: rgb(12, 92, 35);
     text-decoration: line-through;
 }
+
+@media screen and (max-width: 1831px) {
+    body {
+
+        height: 90.2vh;
+        background-repeat: no-repeat;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .container {
+        width: 100%;
+    }
+}
+}
