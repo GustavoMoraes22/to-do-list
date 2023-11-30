@@ -10,7 +10,7 @@ function addlistInfo() {
 
     if (inputInfo.value == 0) {
 
-        alert('ERRO!! Digite uma tafera')
+        alert('ERRO!! Digite uma tarefa')
 
     } else {
         listItens.push({
