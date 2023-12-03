@@ -5,7 +5,7 @@
 <h2 align="center">Preview</h2>
 
 <div align="center">
- <img src = 'https://github.com/GustavoMoraes22/Projeto-previsao-do-tempo/blob/master/projeto%20completo.png?raw=true](https://github.com/GustavoMoraes22/to-do-list/blob/main/assets/Projeto%20concluido.png?raw=true'>
+ <img src = 'https://github.com/GustavoMoraes22/to-do-list/blob/main/assets/Projeto%20concluido.png?raw=true'>
 </div>
 
 <h2 align="center">Tecnologias</h2>
